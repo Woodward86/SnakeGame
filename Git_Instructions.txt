@@ -1,5 +1,3 @@
-
-
 Setup New Repo
 	- Go to www.Github.com
 	- create new repository with initialize with a README checked
@@ -22,4 +20,4 @@ Workflow
 	- use "git merge master" command to join development histories
 	- use "git push" command to create a push request
 	- use GitHub website to create pull request and merge branch in to master, delete branch once merged
- test
+ 
